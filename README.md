@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+<h1> 👋 Hi, I’m @romanwashere </h1>
+<p> A high school student trying to gradually learn to code ❤ </p>
+  
+<h1> ❔ About </h1>
+  <p> 🏷 My name is Musa Yultu` </p>
+  <p> 🤓 I am front-end developer </p>
+  <p> 🇳🇱 I live in Netherlands </p>
+  <p> 🖥 Favorite programming language <a href="https://en.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
-<!--
-**musayultuz/musayultuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1> ✍ Technologies I use </h1>
+<img src="https://skillicons.dev/icons?i=js,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> 📈 My stats </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=musayultuz&show_icons=true&theme=dark" />
+
+<h1> 💎 My achievements </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=musayultuz&theme=onedark" />
