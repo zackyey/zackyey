@@ -3,10 +3,11 @@
 <p> A high school student trying to gradually learn to code ❤ </p>
   
 <h1> ❔ About </h1>
-  <p> 🏷 My name is Musa Yultu` </p>
+  <p> 🏷 My name is Musa Yultuz </p>
   <p> 🤓 I am front-end developer </p>
   <p> 🇳🇱 I live in Netherlands </p>
   <p> 🖥 Favorite programming language <a href="https://en.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+  <p> 🌐 Click to go my <a href="https://www.musayultuz.weebly.com/"> Website </p>
 
 
 <h1> ✍ Technologies I use </h1>
