@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=js,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
 
 <h1> 📈 My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=musayultuz&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=byzacky&show_icons=true&theme=dark" />
 
 <h1> 💎 My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=musayultuz&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=byzackytheme=onedark" />
