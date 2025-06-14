@@ -5,16 +5,13 @@
 <h1> ❔ About </h1>
   <p> 🏷 My name is Elena </p>
   <p> 🤓 I am front-end developer </p>
-  <p> 🇳🇱 I live in Netherlands </p>
+  <p> 🇨🇭 I live in Switzerland </p>
   <p> 🖥 Favorite programming language <a href="https://en.wikipedia.org/wiki/JavaScript"> Javascript </a> & <a href="https://en.wikipedia.org/wiki/Python"> Python </a></p>
-  <p> 🌐 Click to go my <a href="https://www.musayultuz.weebly.com/"> Website </p>
 
 
 <h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,cs,react,nodejs,mongodb,html,css,vscode,atom,discord,python,c,github,vsc&theme=dark" />
 
 <h1> 📈 My stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=byzacky&show_icons=true&theme=dark" />
 
-<h1> 💎 My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=byzackytheme=onedark" />
