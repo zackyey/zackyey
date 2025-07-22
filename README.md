@@ -9,9 +9,12 @@
 ## About Me
 
 🤓 Average internet nerd & high school student  
-🌙 Interests: windy night/early morning walks, late-night coding sessions  
-📚 Reading books, watching anime & TV shows  
 ⚡ JavaScript-focused full-stack developer  
+🌙 Interests/Hobbys: 
+  - 💨 Windy night & early morning walks
+  - 🧑‍💻 Late night coding sessions
+  - 📚 Reading books & novels 
+  - 📺 Watching Anime & TV shows  
 
 ## Tech Stack & Tools
 
