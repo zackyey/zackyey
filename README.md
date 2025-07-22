@@ -9,9 +9,9 @@
 ## About Me
 
 🤓 Average internet nerd & high school student  
-💻 Building web applications and automation tools  
-🌙 Interests: windy night/early morning walks, late-night coding, reading, anime & TV shows  
-⚡ JavaScript-first developer with full-stack capabilities  
+🌙 Interests: windy night/early morning walks, late-night coding sessions  
+📚 Reading books, watching anime & TV shows  
+⚡ JavaScript-focused full-stack developer  
 
 ## Tech Stack & Tools
 
@@ -29,9 +29,9 @@
 
 **🔐 Private Repositories**
 
-**`lawlietproject`** - Student collaboration platform with role-based permissions, real-time messaging, note management, and academic resource sharing.
+**`lawlietproject`** - Student platform with role-based permissions and real-time messaging.
 
-**`nexy`** - Advanced multipurpose Discord bot built with TypeScript and Discord.js. Features web dashboard, custom commands, and moderation tools.
+**`nexy`** - TypeScript Discord bot with web dashboard and moderation features.
 
 ## Focus Areas
 
