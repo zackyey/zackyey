@@ -10,7 +10,8 @@
 
 🤓 Average internet nerd & high school student  
 ⚡ JavaScript-focused full-stack developer  
-🌙 Interests/Hobbys: 
+
+**🌙 Interests/Hobbys: **
   - 💨 Windy night & early morning walks
   - 🧑‍💻 Late night coding sessions
   - 📚 Reading books & novels 
