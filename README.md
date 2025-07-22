@@ -2,16 +2,17 @@
 
 # Hi, I'm Ace (Zacky)
 
-**Full-Stack Developer • Student • Open Source Contributor**
+**Full-Stack Developer • High School Student • Digital Creator**
 
 ---
 
 ## About Me
 
-🎓 High school student focusing on modern software development  
-💻 Building scalable web applications and Discord automation  
-🗣️ English & Dutch  
-⚡ JavaScript-first developer with full-stack capabilities  
+🤓 Your average internet nerd building cool stuff  
+🎓 High school student focused on modern software development  
+💻 Creating scalable applications and automation tools  
+🎯 Interests: late-night coding sessions, sci-fi literature, competitive analysis  
+🗣️ Fluent in English  
 
 ## Tech Stack & Tools
 
@@ -21,45 +22,44 @@
 ### Development Environment
 <img src="https://skillicons.dev/icons?i=vscode,atom,github,discord&theme=dark" />
 
-### Tools & Platforms
-```yaml
-editors: [VSCode, Atom, Cursor]
-ai_tools: [Claude, ChatGPT]
-communication: [Discord, ProtonMail]
-version_control: [Git, GitHub]
-databases: [MongoDB]
-deployment: [Node.js, React]
-```
+### Development Setup
+- **Editors:** VSCode, Atom, Cursor
+- **AI Tools:** Claude, ChatGPT  
+- **Communication:** Discord, ProtonMail
+- **Version Control:** Git, GitHub
+- **Database:** MongoDB
+- **Runtime:** Node.js
 
 ## Current Projects
 
 **🔐 Private Repositories**
 
-**`lawlietproject`** - Comprehensive student platform  
-Role-based collaboration system with real-time messaging, note management, and academic resource sharing. Features hierarchical permissions and searchable content architecture.
+**`lawlietproject`** - Student collaboration platform with role-based permissions, real-time messaging, note management, and academic resource sharing with searchable content.
 
-**`nexy`** - Advanced Discord automation  
-Feature-rich multipurpose bot with web dashboard, custom commands, moderation tools, and analytics. Built with modern Discord.js and React frontend.
+**`nexy`** - Advanced multipurpose Discord bot built with TypeScript and Discord.js. Features web dashboard, custom commands, moderation suite, and analytics.
 
 ## Focus Areas
 
-```javascript
-const interests = {
-  backend: ['API Design', 'Database Architecture', 'Bot Development'],
-  frontend: ['React Ecosystems', 'UI/UX Implementation', 'Dashboard Design'],
-  ai_integration: ['Chatbot Development', 'Automation Systems'],
-  learning: ['System Design', 'Scalable Architecture', 'DevOps Practices']
-}
-```
+**Backend Development**
+API Design • Database Architecture • Bot Development • System Integration
+
+**Frontend Development**  
+React Applications • Dashboard Design • UI/UX Implementation • Responsive Design
+
+**Automation & AI**
+Discord Bot Development • Chatbot Systems • Process Automation • Smart Workflows
+
+**Current Learning**
+System Design • Scalable Architecture • DevOps Practices • Advanced TypeScript
 
 ## GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zackyey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Stats](https://github-readme-stats.vercel.app/api?username=zackyey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackyey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ---
 
-<sub>Crafting digital solutions through clean code and thoughtful design.</sub>
+<sub>Building digital solutions one commit at a time.</sub>
 
 </div>
