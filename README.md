@@ -8,19 +8,15 @@
 
 ## About Me
 
-🤓 Your average internet nerd building cool stuff  
-🎓 High school student focused on modern software development  
-💻 Creating scalable applications and automation tools  
-🎯 Interests: late-night coding sessions, sci-fi literature, competitive analysis  
-🗣️ Fluent in English  
+🤓 Average internet nerd & high school student  
+💻 Building web applications and automation tools  
+🌙 Interests: windy night/early morning walks, late-night coding, reading, anime & TV shows  
+⚡ JavaScript-first developer with full-stack capabilities  
 
 ## Tech Stack & Tools
 
 ### Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=js,ts,python,cs,c,react,nodejs,html,css,mongodb&theme=dark" />
-
-### Development Environment
-<img src="https://skillicons.dev/icons?i=vscode,atom,github,discord&theme=dark" />
 
 ### Development Setup
 - **Editors:** VSCode, Atom, Cursor
@@ -28,29 +24,20 @@
 - **Communication:** Discord, ProtonMail
 - **Version Control:** Git, GitHub
 - **Database:** MongoDB
-- **Runtime:** Node.js
 
 ## Current Projects
 
 **🔐 Private Repositories**
 
-**`lawlietproject`** - Student collaboration platform with role-based permissions, real-time messaging, note management, and academic resource sharing with searchable content.
+**`lawlietproject`** - Student collaboration platform with role-based permissions, real-time messaging, note management, and academic resource sharing.
 
-**`nexy`** - Advanced multipurpose Discord bot built with TypeScript and Discord.js. Features web dashboard, custom commands, moderation suite, and analytics.
+**`nexy`** - Advanced multipurpose Discord bot built with TypeScript and Discord.js. Features web dashboard, custom commands, and moderation tools.
 
 ## Focus Areas
 
-**Backend Development**
-API Design • Database Architecture • Bot Development • System Integration
-
-**Frontend Development**  
-React Applications • Dashboard Design • UI/UX Implementation • Responsive Design
-
-**Automation & AI**
-Discord Bot Development • Chatbot Systems • Process Automation • Smart Workflows
-
-**Current Learning**
-System Design • Scalable Architecture • DevOps Practices • Advanced TypeScript
+**Backend** • API Design • Database Architecture • Bot Development  
+**Frontend** • React Applications • Dashboard Design  
+**Learning** • System Design • Scalable Architecture
 
 ## GitHub Analytics
 
