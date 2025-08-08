@@ -11,7 +11,7 @@
 🤓 Average internet nerd & high school student  
 ⚡ JavaScript-focused full-stack developer  
 
-### 🌙 Interests/Hobbys:
+#### 🌙 Interests/Hobbys:
   - 💨 Windy night & early morning walks
   - 🧑‍💻 Late night coding sessions
   - 📚 Reading books & novels 
@@ -24,10 +24,6 @@
 
 ### Development Setup
 - **Editors:** VSCode, Atom, Cursor
-- **AI Tools:** Claude, ChatGPT  
-- **Communication:** Discord, ProtonMail
-- **Version Control:** Git, GitHub
-- **Database:** MongoDB
 
 ## Current Projects
 
@@ -51,6 +47,6 @@
 
 ---
 
-<sub>Building digital solutions one commit at a time.</sub>
+<sub>Too much wind in the mind..</sub>
 
 </div>
