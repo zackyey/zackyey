@@ -25,14 +25,6 @@
 ### Development Setup
 - **Editors:** VSCode, Atom, Cursor
 
-## Current Projects
-
-**🔐 Private Repositories**
-
-**`lawlietproject`** - Student platform with role-based permissions and real-time messaging.
-
-**`nexy`** - TypeScript Discord bot with web dashboard and moderation features.
-
 ## Focus Areas
 
 **Backend** • API Design • Database Architecture • Bot Development  
