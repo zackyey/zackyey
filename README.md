@@ -2,14 +2,12 @@
 
 # Hi, I'm Ace (Zacky)
 
-**Full-Stack Developer • High School Student • Digital Creator**
-
+**Developer • Student • Digital Creator**
 ---
-
 ## About Me
 
-🤓 Average internet nerd & high school student  
-⚡ JavaScript-focused full-stack developer  
+⭐ Average internet nerd & high school student  
+⚡ JavaScript-focused developer  
 
 #### 🌙 Interests/Hobbys:
   - 💨 Windy night & early morning walks
