@@ -29,12 +29,6 @@
 **Frontend** • React Applications • Dashboard Design  
 **Learning** • System Design • Scalable Architecture
 
-## GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=zackyey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackyey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
 ---
 
 <sub>Too much wind in the mind..</sub>
