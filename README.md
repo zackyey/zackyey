@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello! My real name is Ace and I like Coding & Technology!
+# Hello There!
 
 **Developer • Student • Digital Creator**
 ---
