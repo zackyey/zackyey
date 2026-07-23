@@ -2,7 +2,7 @@
 
 # Hello There!
 
-**Developer • Student • Digital Creator**
+**Coder • Student**
 ---
 ## About Me
 
