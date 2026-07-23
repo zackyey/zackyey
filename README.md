@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,cs,c,react,nodejs,html,css,mongodb&theme=dark" />
 
 ### Development Setup
-- **Editors:** VSCode, Atom, Cursor
+- **Editors:** VSCode & Sublime Text
 
 ## Focus Areas
 
