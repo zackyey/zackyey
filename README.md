@@ -18,7 +18,7 @@
 ## Tech Stack & Tools
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,c,react,nodejs,html,css,c++,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,c,react,nodejs,html,css,cpp,mongodb&theme=dark" />
 
 ### Development Setup
 - **Editors:** VSCode & Sublime Text
