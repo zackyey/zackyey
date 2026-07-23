@@ -1,19 +1,19 @@
 <div align="center">
 
-# Hi, I'm Ace (Zacky)
+# Hello! My real name is Ace and I like Coding & Technology!
 
 **Developer • Student • Digital Creator**
 ---
 ## About Me
 
-⭐ Average internet nerd & high school student  
+⭐ Average internet "nerd" & high school student  
 ⚡ JavaScript-focused developer  
 
 #### 🌙 Interests/Hobbys:
   - 💨 Windy night & early morning walks
-  - 🧑‍💻 Late night coding sessions
+  - 🧑‍💻 Coding and bug testing!
   - 📚 Reading books & novels 
-  - 📺 Watching Anime & TV shows  
+  - 🤓 Mathematics & Research
 
 ## Tech Stack & Tools
 
