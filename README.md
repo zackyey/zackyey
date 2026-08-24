@@ -1,12 +1,7 @@
 <div align="center">
-
-# Hello There!
-
-**Coder • Student**
 ---
 ## About Me
 
-⭐ Average internet "nerd" & high school student.
 ⚡ JavaScript-focused "developer". 
 
 #### 🌙 Interests/Hobbys:
